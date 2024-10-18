@@ -1,5 +1,5 @@
 
-# Welcome to StudentManagement Repository
+# Welcome to DataStructure-Algorithm Repository
 ### You will find in this repo the following stuff:
 * Recursion
 * BigO notation
